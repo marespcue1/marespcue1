@@ -6,7 +6,7 @@ Computer Engineer with professional experience in software development and a gro
 
 My interests include data analysis, machine learning, image processing, remote sensing, and algorithm design.
 
-Currently pursuing a Master's Degree in Mathematical Engineering and Computing.
+Recently completed a Master's Degree in Mathematical Engineering and Computing.
 
 ## Featured Projects
 
